@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aidandoesinsurance
-- 🌱 I’m currently learning ...
-- 📫 How to reach me ...
 - :point_right: Visit my personal github: github.com/kiseraidan
+- :thought_balloon: Visit my LinkedIn: linkedin.com/in/kiseraidan
 
 <!---
 aidandoesinsurance/aidandoesinsurance is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
