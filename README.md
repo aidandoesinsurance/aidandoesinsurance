@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @aidandoesinsurance
+- :milky_way: I am currently a Software Developer Intern at Progressive Insurance
 - :point_right: Visit my personal github: github.com/kiseraidan
 - :thought_balloon: Visit my LinkedIn: linkedin.com/in/kiseraidan
 
